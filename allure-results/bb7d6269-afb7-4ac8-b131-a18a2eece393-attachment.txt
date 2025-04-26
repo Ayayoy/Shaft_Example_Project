@@ -1,0 +1,25 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                   Test Method: 'AddProduct.addProductToCart'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Type "Email Address" @26-04-2025 20:00:46.0409 PM
+[ReportManager] Type "Password" @26-04-2025 20:00:46.0658 PM
+[ReportManager] Click "Login" @26-04-2025 20:00:51.0091 PM
+[ReportManager] Click " MEN" @26-04-2025 20:00:51.0422 PM
+[ReportManager] Click "TSHIRTS" @26-04-2025 20:00:53.0743 PM
+[ReportManager] Get Text from "Rs. 400", text is "Rs. 400". @26-04-2025 20:00:55.0407 PM
+[ReportManager] Click " Add to cart" @26-04-2025 20:00:55.0586 PM
+[ReportManager] Click "Continue Shopping" @26-04-2025 20:00:56.0103 PM
+[ReportManager] Get Text from "Rs. 1299", text is "Rs. 1299". @26-04-2025 20:00:56.0214 PM
+[ReportManager] Get Text from "Rs. 1000", text is "Rs. 1000". @26-04-2025 20:00:56.0347 PM
+[ReportManager] Get Text from "Rs. 1500", text is "Rs. 1500". @26-04-2025 20:00:56.0465 PM
+[ReportManager] Get Text from "Rs. 850", text is "Rs. 850". @26-04-2025 20:00:56.0585 PM
+[ReportManager] Click " Add to cart" @26-04-2025 20:00:56.0854 PM
+[ReportManager] Click "Continue Shopping" @26-04-2025 20:00:57.0576 PM
+[ReportManager] Get Text from "Rs. 1389", text is "Rs. 1389". @26-04-2025 20:00:57.0709 PM
+[ReportManager] Scroll to element " Cart". @26-04-2025 20:00:58.0032 PM
+[ReportManager] Click " Cart" @26-04-2025 20:01:00.0224 PM
+[ReportManager] Capture full screenshot @26-04-2025 20:01:02.0542 PM
+[ReportManager] Successfully created attachment 'Screenshot - captureScreenshot_20-01-02-540_26042025' @26-04-2025 20:01:02.0545 PM
